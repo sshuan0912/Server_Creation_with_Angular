@@ -1,6 +1,8 @@
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+It aimed to implement server creation features by applying String Interpolation, Property Binding, Event Binding, Two-Way-Databinding, and Directives like "ngFor," "ngIf," and "ngClass."
+The user can input the server name into the text box, and when a server is created successfully, a message will pop out if the button is clicked. The server status will be assigned randomly to online or offline and show different background colors.   
 
 ## Development server
 
